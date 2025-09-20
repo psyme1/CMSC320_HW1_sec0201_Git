@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: If your laptop breaks, or got infected with a virus, you would still be able to access the files from other devices.
+Not only does it make it safer, as not all your files are saved purely to a single device, but also it makes it easier ot collaborate with other people on a project.
