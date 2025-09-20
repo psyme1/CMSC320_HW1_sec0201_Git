@@ -2,3 +2,8 @@ Q1: Why might we consider using Git?
 
 Answer: If your laptop breaks, or got infected with a virus, you would still be able to access the files from other devices.
 Not only does it make it safer, as not all your files are saved purely to a single device, but also it makes it easier ot collaborate with other people on a project.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be very effectively used in political science. Giving politicians a better understanding of what the voters care about could increase their reponsitivity to the voters.
+Also, that knowledge could be critical in showing which politicians are in the lead coming up to election days.
