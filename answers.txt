@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be very effectively used in political science. Giving politicians a better understanding of what the voters care about could increase their reponsitivity to the voters.
 Also, that knowledge could be critical in showing which politicians are in the lead coming up to election days.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing is a linear process, it is like you put all your actions on top of the other one, whereas I think merging line smushes them together and it's more branched.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science in this class, and pandas. I am also looking forward to learning more about web dev in CMSC335.
